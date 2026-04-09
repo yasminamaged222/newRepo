@@ -1,0 +1,4 @@
+html, body {
+    overflow-x: hidden;
+    /*height: 100%;*/ /* This often kills scroll listeners */
+}
